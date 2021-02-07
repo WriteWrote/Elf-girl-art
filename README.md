@@ -8,3 +8,6 @@ finished drawing hair, made a colour-base of frame. Also has some steps of drawi
 make a sketch coloring of face - need to put lights and maybe more details.
 
 # Struggles: drawing eyes.
+
+**Current stage:**
+![Иллюстрация к проекту](https://github.com/WriteWrote/Elf-girl-art/blob/main/%D0%BF%D0%BE%D1%80%D1%82%D1%8011.png)
