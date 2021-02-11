@@ -3,6 +3,11 @@ CG-drawing started long, long, looong ago. Now trying to finish with new skills
 
 This CG-drawing started something around 2018, but I didn't have enough skills that time to finish it and stopped at the hair-drawing point.
 
+This is a new experience for me, and I'm still trying to find the style. It's a bit hard for me to keep one way of coloring and rendering different parts of this work.
+But presumably my wishes on this project are to make a warm-coloured, nice textured illustration of cuteness.
+
+Guess after finishing this one piece of art I will choose another big illustration to work out fine pipe-lines for style which I tend to use most frequently.
+
 # Now: 
 finished drawing hair, made a colour-base of frame. Also has some steps of drawing into png - just for fun.
 make a sketch coloring of face - need to put lights and maybe more details.
