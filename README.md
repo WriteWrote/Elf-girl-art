@@ -23,4 +23,4 @@ make a sketch coloring of face - need to put lights and maybe more details.
 6. Post-effects (like the strain of light from the upper-left corner and ets, ets)
 
 **Current stage:**
-![Иллюстрация к проекту](https://github.com/WriteWrote/Elf-girl-art/blob/main/%D0%BF%D0%BE%D1%80%D1%82%D1%8012.png)
+![Иллюстрация к проекту](https://github.com/WriteWrote/Elf-girl-art/blob/main/%D0%BF%D0%BE%D1%80%D1%82%D1%8014.png)
